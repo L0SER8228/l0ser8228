@@ -13,6 +13,8 @@
 <a href="https://discord.com/users/668157292927254587" target="_blank"> <img src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://dev.to/l0ser8228"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="L0SER's DEV Profile" height="30" width="30"> </a>
 
+<hr>
+
 <h3>Skills & Tools </h3>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
