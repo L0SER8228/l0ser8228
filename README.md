@@ -3,15 +3,13 @@
 
 <hr>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=L0SER8228" alt="L0SER8228" />
-<img src="https://img.shields.io/github/forks/L0SER8228/L0SER8228?color=blue" alt="L0SER8228" />
-<img src="https://img.shields.io/github/stars/L0SER8228/L0SER8228?color=blue" alt="L0SER8228" />
-</p>
+![Views](https://komarev.com/ghpvc/?username=L0SER8228)
+![Forks](https://img.shields.io/github/forks/L0SER8228/L0SER8228?color=blue)
+![Stars](https://img.shields.io/github/stars/L0SER8228/L0SER8228?color=blue)
 
 <hr>
 
-  <img align="center" alt="GIF" src="code.gif?raw=true" width="400" height="300" />
+  <img align="center" alt="Code_Gif" src="code.gif?raw=true" width="400" height="300" />
 
 <hr>
 
@@ -19,7 +17,7 @@
 
 - 🌱 I’m currently learning **discord.js**
 
-- ⚡ Fun fact **My name is L0SER,but actually I'm not a LOSER.**
+- ⚡ Fun fact **My name is L0SER**
 
 <hr>
 
@@ -34,24 +32,8 @@
 
 <hr>
 
-<h3 align="left">🔥 Recent GitHub Activity</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=L0SER8228&show_icons=true&theme=radical" alt="L0SER8228" /></p>
-
-<hr>
-
-<h3 align="left">📜 Most Used Languages</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SER8228&layout=compact&show_icons=true&theme=radical" alt="L0SER8228" /></p>
-
-<hr>
-
-<h3 align="left">👨‍💻 Github Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&hide_border=true&theme=radical" alt="L0SER8228" /></p>
-
-<hr>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=L0SER8228&theme=discord&column=3)
-
-<hr>
-
-<h3 align="left">📊 Wakatime Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L0SER8228&theme=radical" alt="L0SER8228" /></p>
+![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=L0SER8228&show_icons=true&theme=tokyonight&hide=["issues"])
+![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs?username=L0SER8228&show_icons=true&theme=tokyonight&layout=compact)
+![streak_Stats](https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&hide_border=true&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=L0SER8228&theme=discord&column=3)
+![Wakatime_Stats](https://github-readme-stats.vercel.app/api/wakatime?username=L0SER8228&theme=tokyonight)
