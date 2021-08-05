@@ -43,7 +43,7 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/replit-discord/replit-desktop/dev/logos/replit-logo/logo.png"></code>
-
+<code><img height="30" src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Flogo-day.svg"></code>
 <hr>
 
 ![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=L0SER8228&show_icons=true&theme=tokyonight&hide=["issues"])
