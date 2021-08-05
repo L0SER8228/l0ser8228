@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm L0SER</h1>
-<h3 align="center">A 18 years old Self-taught, passionate frontend developer from India</h3>
+<h3 align="center">A 18 years old self-taught, passionate developer from India</h3>
 
 <hr>
 
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Discord Bots**
 
-- 🌱 I’m currently learning **discord.js**
+- 🌱 I’m currently learning **Python**
 
 - ⚡ Fun fact **My name is L0SER**
 
