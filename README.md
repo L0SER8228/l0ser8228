@@ -41,4 +41,3 @@
 ![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs?username=L0SER8228&show_icons=true&theme=tokyonight&layout=compact)
 ![streak_Stats](https://github-readme-streak-stats.herokuapp.com/?user=L0SER8228&hide_border=true&theme=tokyonight)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=L0SER8228&theme=discord&column=3)
-![Wakatime_Stats](https://github-readme-stats.vercel.app/api/wakatime?username=L0SER8228&theme=tokyonight)
